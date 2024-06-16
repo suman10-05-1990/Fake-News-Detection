@@ -121,7 +121,6 @@ def main():
                 st.error(f"Error fetching the article: {e}")
         else:
             st.write("Please enter a news URL to predict.")
-
     st.write("## Saved News Data")
     df = load_from_csv()
     if not df.empty:
