@@ -19,9 +19,16 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 # Load the trained model
+import os
+
+# Assuming 'fake_news_detector.pkl' is in the same directory as your app.py
+model_path = os.path.join(os.path.dirname(__file__), 'fake_news_detector.pkl')
+
 model = joblib.load('fake_news_detector.pkl')
 
 # NewsAPI Key
+import os
+NEWS_API_KEY = os.getenv('NEWS_API_KEY')
 NEWS_API_KEY = '5071a3a304914e4fbd4e18772b388b79'
 
 # CSV file to save data
