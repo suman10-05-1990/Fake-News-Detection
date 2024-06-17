@@ -33,3 +33,6 @@ ub.com/suman10-05-1990/Fake-News-Detection/assets/152400389/27583424-3c29-417d-b
 ![model training pkl file screen](https://github.com/suman10-05-1990/Fake-News-Detection/assets/152400389/52d2e82e-9ac6-4f96-b9a4-28a6f84f2ebf)
 ![saved news data 4](https://github.com/suman10-05-1990/Fake-News-Detection/assets/152400389/3d203413-e8cd-4022-96b7-934d52fb8848)
 ![streamlit( local host )](https://github.com/suman10-05-1990/Fake-News-Detection/assets/152400389/9b1bacc7-bea0-40bd-8ea1-369bc9f36261)
+![8output](https://github.com/suman10-05-1990/Fake-News-Detection/assets/152400389/e800f611-a06f-4eb7-bbbc-7e0e0a9d67fc)
+![9output](https://github.com/suman10-05-1990/Fake-News-Detection/assets/152400389/f9b5ec4a-175f-4500-9653-b6ba8bb0466d)
+![13output](https://github.com/suman10-05-1990/Fake-News-Detection/assets/152400389/a818a887-cbc1-4fe3-a5de-ba09a0b6f1d6)
